@@ -1,9 +1,4 @@
-[index.html.html](https://github.com/user-attachments/files/27286173/index.html.html)
-<!DOCTYPE html>
-<html>
-<head>
-    <title>JS 3D</title>
-<style>
+
 
         /* TITULOS */
         h1, h2 { color: #00e5ff; }
