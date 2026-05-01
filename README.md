@@ -1,5 +1,3 @@
-
-
         /* TITULOS */
         h1, h2 { color: #00e5ff; }
 
@@ -232,7 +230,7 @@
 <body>
 
 <h1 class="logo-titulo">
-    <img src="Logo.png"  class="logo-img">
+    <img src="logo.png"  class="logo-img">
     JS 3D
 </h1>
 
