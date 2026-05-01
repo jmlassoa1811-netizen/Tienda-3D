@@ -1,3 +1,4 @@
+[index.html.html](https://github.com/user-attachments/files/27286552/index.html.html)
 <!DOCTYPE html>
 <html>
 <head>
@@ -236,7 +237,7 @@
 <body>
 
 <h1 class="logo-titulo">
-    <img src="logo.png"  class="logo-img">
+    <img src="Logo.png"  class="logo-img">
     JS 3D
 </h1>
 
