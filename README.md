@@ -2,7 +2,8 @@
 <html>
 <head>
     <title>JS 3D</title>
-<style>       
+<style>
+
         /* TITULOS */
         h1, h2 { color: #00e5ff; }
 
