@@ -1,4 +1,5 @@
 [index.html.html](https://github.com/user-attachments/files/27286552/index.html.html)
+<!DOCTYPE html>
 <html>
 <head>
     <title>JS 3D</title>
